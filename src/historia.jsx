@@ -19,7 +19,7 @@ A história da Sub-Zero começou com um técnico de eletrônica que trabalhava e
 
 Cansado dessa situação, o patrão desafiou o técnico de eletrônica a aplicar seus conhecimentos na área de refrigeração, prometendo dobrar seu salário caso ele resolvesse os problemas da empresa. O técnico aceitou o desafio, fez um curso de refrigeração e, em pouco tempo, colocou todos os equipamentos para funcionar perfeitamente, dispensando a empresa de manutenção anterior.
 
-No entanto, o patrão não cumpriu a promessa de dobrar o salário. Insatisfeito, o técnico deixou a empresa, decidido a criar um negócio que oferecesse serviços de refrigeração justos e de qualidade para todos.
+No entanto, o patrão não cumpriu a promessa de dobrar og salário. Insatisfeito, o técnico deixou a empresa, decidido a criar um negócio que oferecesse serviços de refrigeração justos e de qualidade para todos.
 
 Assim nasceu a Sub-Zero Refrigeração, que foi oficialmente registrada em 2011. A empresa se dedica a fornecer serviços de refrigeração com preços justos, qualidade, empenho e atenção aos clientes, trabalhando com sinceridade e buscando a satisfação total do cliente. A Sub-Zero atua no mercado até hoje, realizando serviços de refrigeração em diversas marcas e modelos de equipamentos nacionais e importados.</p>
 

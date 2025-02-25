@@ -8,22 +8,22 @@ function Body() {
   const products = [
     {
       title: " Ar condicionado ",
-      img: "image/pngwing.com (5).png ",
+      img: "https://i.ibb.co/Rm8jSmr/pngwing-com-5.png ",
       text:"O seu ar condicionado está te deixando na mão? Não se preocupe, eu posso te ajudar! Sou especialista em consertar ar condicionado de todas as marcas e modelos."
     },
     {
       title: " Bebedouro",
-      img: "image/pngwing.com.png",
+      img: "https://i.ibb.co/kgV17wh2/pngwing-com.png",
      text:"Seu bebedouro está apresentando problemas? Não se preocupe, eu posso te ajudar! Sou especialista em consertar bebedouros de todas as marcas e modelos. "
     },
     {
       title: "Câmara frigorífica",
-      img: "image/camera-fria-01.jpg ",
+      img: "https://i.ibb.co/fs4jHcd/camera-fria-01.png ",
       text:"Se a sua câmara frigorífica está apresentando problemas, não se preocupe! Sou especialista em consertar câmaras frigoríficas de todas as marcas e modelos. "
     },
     {
       title: "Geladeira",
-      img: "image/pngwing.com (2).png",
+      img: "https://i.ibb.co/BH8LWvK3/pngwing-com-2.png",
       text:"Se a sua geladeira está te dando dor de cabeça, não se preocupe! Sou especialista em consertar geladeiras de todas as marcas e modelos. "
     }
   ]
@@ -37,7 +37,7 @@ function Body() {
 
             <img
              className=" d-block position-relative imgslide ms-auto me-auto "
-              src="image/pngwing.com (3).png"
+              src="https://i.ibb.co/Sw4xVZpW/pngwing-com-3.png"
               alt="First slide"
             />
             
@@ -50,7 +50,7 @@ function Body() {
 
             <img
               className="d-block imgslide ms-auto me-auto  "
-              src="image/136167198_b2a2da1a-e702-4d22-ac6d-f5e0375560eb-Photoroom.jpg"
+              src="https://i.ibb.co/F486vLH6/136167198-b2a2da1a-e702-4d22-ac6d-f5e0375560eb-Photoroom.jpg"
               alt="Second slide"
 
             />
@@ -63,7 +63,7 @@ function Body() {
 
             <img
               className="d-block imgslide position-relative  ms-auto me-auto "
-              src="image/pngwing.com (6).png"
+              src="https://i.ibb.co/21Bj11DC/pngwing-com-6.png"
               alt="Third slide"
             />
             <Carousel.Caption >
