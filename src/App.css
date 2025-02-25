@@ -1,0 +1,91 @@
+*{
+padding: 0px;
+margin: 0px;
+text-decoration: none;
+}
+
+.container, #root{
+    background-color:#050638
+}
+header{
+height: 80px;
+background-color:#4348BD;
+}
+
+ h5,p,a{
+ color:#3663AD !important;
+ position: relative;
+top: 26px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular',
+ 'Lucida Grande', 'Lucida Sans Unicode',
+  Geneva, Verdana, sans-serif;
+
+}
+p{
+    color:#ffffff !important;
+    position: relative;
+   top: 26px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular',
+    'Lucida Grande', 'Lucida Sans Unicode',
+     Geneva, Verdana, sans-serif;
+   
+   }
+
+a{
+color: #ffffff!important;
+cursor: pointer !important;
+}
+.card{
+height: 700px !important;
+width: 300px !important;
+}
+.whatssap {
+position: relative;
+left:40%;
+top:   -170px;
+
+}
+
+.btn{
+
+background-color: #198754 !important;
+}
+.Carousel{
+    height: 500px !important;
+    width: 100% !important;
+    background-color:#050638
+
+}
+.image{
+        height: 330px !important;
+      }
+
+.imgslide{
+    height: 400px !important;
+    width: 500px;
+}
+#logo{
+ border: solid  1px #5F523A;
+}
+
+
+@media screen and ( max-width: 768px){
+    .imgslide{
+        height: 300px !important;
+        width: 300px;
+    }
+    .Carousel{
+        height: 400px !important;
+        width: 100% !important;
+    
+}
+#logo{
+    height: 110px;
+    border: solid 1px #5F523A;
+   }
+   .h1mob {
+   margin-top: 60px !important;
+
+   }
+
+}
