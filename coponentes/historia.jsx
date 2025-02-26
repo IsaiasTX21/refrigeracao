@@ -8,7 +8,7 @@ return (
        <Header/>
 <div style={{minHeight:"95dvh"}} className="  container align-content-center justify-content-center">
      
-     <div className="row mb-5  text-center text-capitalize   ">
+     <div style={{bottom:"40px"}} className="row  position-relative text-center text-capitalize   ">
 
     <h1  className=" animate__animated animate__fadeInLeft h1mob  text-white">Sub-Zero Refrigeração: Bem-vindo ao Zero Absoluto</h1>
 <p className="animate__animated animate__fadeInLeft">
