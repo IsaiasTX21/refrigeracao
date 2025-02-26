@@ -4,15 +4,14 @@
     text-decoration: none;
 }
 
-.container,
-#root {
+.container,#root {
     background-color: #050638
 }
 
 header {
     height: 70px;
     background-color: #D3CAA7;
-    border-bottom: dotted 1px #3d3d3a;
+
 }
 
 h5 {
