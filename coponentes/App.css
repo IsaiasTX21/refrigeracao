@@ -11,12 +11,11 @@
 
 header {
     height: 70px;
-    background-color: #0d1150;
+    background-color: #D3CAA7;
     border-bottom: dotted 1px #3d3d3a;
 }
 
-h5,
-a {
+h5 {
     color: #D4D2AD !important;
     position: relative;
     top: 23px;
@@ -26,20 +25,30 @@ a {
 
 }
 
-p {
-    color: #ffffff !important;
+a {
+    color: #050638 !important;
     position: relative;
-    top: 26px;
+    top: 23px;
+    cursor: pointer;
     font-family: 'Lucida Sans', 'Lucida Sans Regular',
         'Lucida Grande', 'Lucida Sans Unicode',
         Geneva, Verdana, sans-serif;
 
 }
 
-a {
-    color: #D4D2AD !important;
-    cursor: pointer !important;
+p {
+    color: #ffffff !important;
+    position: relative;
+    top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode',
+        Geneva, Verdana, sans-serif;
 }
+#historia {
+    position: relative;
+    bottom:  50px;
+     
+ }
 
 .card {
     height: 700px !important;
@@ -50,7 +59,6 @@ a {
     position: relative;
     left: 40%;
     top: -170px;
-
 }
 
 .btn {
@@ -78,16 +86,17 @@ a {
     height: 140px;
     position: relative;
     border: solid 1px #5F523A;
-    box-shadow:  1px 1px 5px rgb(26, 25, 25);
+    box-shadow: 1px 1px 5px rgb(26, 25, 25);
     border-radius: 20%;
-
 }
 
 ul {
     justify-content: space-around;
 }
 
-@media screen and (max-width: 1200px) {
+
+
+@media screen and (max-width: 992px) {
     .imgslide {
         height: 300px !important;
         width: 300px;
@@ -103,19 +112,19 @@ ul {
         height: 70px;
         margin-left: 0px;
         border: solid 1px #5F523A;
-    
-      
-    }
+      }
+  
 
     .h1mob {
         margin-top: 60px !important;
 
     }
-
     #historia {
-        margin-right: 0px;
-    }
-
+        position: relative;
+        bottom:  50px;
+         
+     }
+   
     ul {
         justify-content: space-between;
     }
