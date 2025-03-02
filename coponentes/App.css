@@ -25,7 +25,7 @@ h5 {
 }
 
 a {
-    color: #050638 !important;
+    color: #454BBD !important;
     position: relative;
     top: 23px;
     cursor: pointer;
@@ -111,6 +111,7 @@ ul {
         height: 70px;
         margin-left: 0px;
         border: solid 1px #5F523A;
+        border-radius: 0px  ;
       }
   
 

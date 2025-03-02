@@ -10,7 +10,7 @@ return (
      
      <div id="historia" className="row  position-relative text-center text-capitalize   ">
 
-    <h1  className=" animate__animated animate__fadeInLeft h1mob  text-white">Sub-Zero Refrigeração: Bem-vindo ao Zero Absoluto</h1>
+    <h1  className=" animate__animated animate__fadeInLeft h1mob  text-white"> Refrigeração Sub-Zero: Bem-vindo ao Zero Absoluto</h1>
 <p className="animate__animated animate__fadeInLeft">
 
 A Sub-Zero Refrigeração surgiu em 2009, com a visão de oferecer soluções de refrigeração de alta qualidade a preços justos, para todos os clientes, independentemente de sua classe social.
